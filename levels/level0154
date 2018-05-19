@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<board>
+				<level>154</level>
+				<width>55</width>
+				<height>54</height>
+				<walls>...X..XX..XXXX...XX.....X..XXXXX..X.......X..XXXXXX....
+.X....X...X....X..X...X.X..X......X.....X....X......XX.
+....X...X...X...X..X....X..X..X...XX..X....X...XXX..XX.
+............X.X.XX...X.....XX...X.....X..X.....XXX..XX.
+...X.....XX.X...X......X...XXX..X...X.....X......X.....
+......XX..X.XX....X........XX..X..X...XXX...X......X.XX
+..XX....X......X....X.XX...XX.XX...XX...X..XXXX......XX
+..X..X.......X.X...XX....X.........XXX..X.........XX..X
+X...XX...........X...XX..XXXXX.........X..XXXX..X.....X
+........XXXXX...XX.....XXXXXX.....XXX....XXX....X.X...X
+.X.X....XXXXX....X..XX.....XX.......X.X..X...XX.X...X.X
+.X...X..X.....XX.X..XXX....XX...XX..............XX....X
+....X..XX.....X..X...XX.X..X..X..X...X..XXX...X..X.X...
+XXX.X...X...XX..XX.X..X...XX...X...XXX....X.X.X..X...X.
+....X.X...X.XX.....XX.XXX......X..XXXX..X...X....X.....
+..XX..X.............X..XXXXXX.........X.XX..XXXX......X
+X....XX.XX...X...X..XX...X......X.....X..X....XXXXX....
+X.......X..X...X...X.....X........X...XX...X...XXX.....
+X.XXXX....XX.XXXX..X......X......XX.X........X.....XXXX
+X.X..X.....X......X....XX........XX.....X.XX....X......
+..X.....XX.XXXXXX...X..........XXXXX....X.....X.....XX.
+.X..XXX..X.....XXX..X.X......X.....X.X....X.X....X..XX.
+.X...XXX.XX....X....X...XXXX.......X.X......X......X...
+...X........X..X.XX...........X....X.X.....XX.....X..XX
+...XXXX...XX...X...X.....XXX....XX...X...XX..XXX..X....
+.....XX......X.......X.XX.....XX....X..X.X...X...X..XX.
+..XX.....X..XXX...XX.X.XX.X.X....X..X....X.X.....X.....
+...X..XX.X.....XX......X..X....X...XX.......XXX..X...XX
+.X..X......X........XX...XXXXX.....XX.....X......X...XX
+.XX.X.X...XX.XX.XXXXXX..XXXX...XX.....XXX..X.......X...
+.X..X.XXX.....X..XXXXXX....X.X....XXXXX....X.XX......X.
+...XX..X....X....XXXXXXX.....X......XX.....X....XXX..X.
+....XX...X.....XXXXX.....XX......XX....X...XX...XXX....
+....XXXX.....X..XX............X..X......XX.XX..XXX..X.X
+XXXXXXX......XX.....X.....X.....X..XXX.....XXX...X....X
+X.......X...........X.X.X...XX....X....X.XX........XX..
+.....X....X.XX..........X..XX........XX..XX...X.....X..
+.X.X.XXX..X..X.......X...X..X.X.XX.X..X.XX........X....
+...X.XXX...X.XXX.....XXX.XX.X......XX...XX.X...X.......
+.........X...X.....XXXXX.X..X..X.X.....X.....X...X.....
+....X.....XX...........X...XX..X.....X....X..........X.
+XX..X...X.XX......X......XXXX...X.......X...X.....X..X.
+X...XX....X.....X...X....X....X...X...X..XX.....X...X..
+X.X....X....X...X...X......XXXXX..X..........XX....X..X
+..XX..XX...XXXX.......X...X......XX..X.....X..X..X...XX
+.XXX.....X...XXX......X.....XXX...X...XX.X..X.......X..
+.XX..XXXX......XXX.........X....X...X....XX..X....X....
+....XXXX..X.XX.......XX......XX....XX.....XX...X.....X.
+.........X..XXX....XX.....X......X.....XX.XX.....XXX.X.
+...X....XX...XX.XX..X.......XXXX...X.X..X.....X........
+X..X.......X..X..XX............XX..X..X.XXX.......X...X
+..XX...X......XX.XX..X.....X......X...X.XXX....X..X...X
+.XXX...X..X....X..X....X...X..X.X.X.....XXX......XX....
+.....XXXX......XX...XX...XXXX...X......................</walls>
+			</board>

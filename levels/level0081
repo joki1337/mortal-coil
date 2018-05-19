@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<board>
+				<level>81</level>
+				<width>30</width>
+				<height>30</height>
+				<walls>......XXX.....X..X....XX..XX..
+....X.....XXX....X.XX.XX..X...
+..X...X..XXXXXXX......X...X.X.
+..XXX.X..........XX.X...X.....
+X.......XXXX........X.....XX.X
+X.XXXX.XXX......X............X
+X......X....XX..XXXXXX.....XXX
+XXXX...X..X....XXXXXX....XXX..
+.....X..X.........X...XXXX....
+.X..XXX....XXXX...X....X...XX.
+.X.......X..XXX.....XX.....XX.
+...XX....XX...........X....X..
+X...X...XXXXXXXX...XX........X
+X.X.......XXXX..XX..........XX
+....XX.X.....X......XXXXXXX..X
+.X...X...X.X.X...XX.......XX.X
+...X..X....X.X.XX.........XX.X
+..XXX...XX.....X..XX.......X..
+X......X......X..XX..XX.......
+..X..X...XX...X.X...X.......XX
+.XX...X.....X.....X...........
+....X...X.X...XX...........XX.
+XX...XX...X..X....XX.......XX.
+...X..X....X...X....XX.....X..
+.XXXX...XX.X..XX.X..XX.......X
+...X...X...X.....X...X....X...
+X..X.X...XXX.XX....X.X......X.
+..X..X.......XX...XX.X...X....
+.XX...........X....X.X...X.X..
+......XXXXXXX......X...X...XXX</walls>
+			</board>

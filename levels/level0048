@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<board>
+				<level>48</level>
+				<width>19</width>
+				<height>19</height>
+				<walls>.....X......XX..X..
+...X.....XX.X...X..
+......X...X...X....
+....X.X.X.XX....XX.
+....X...X.XXXX..X..
+.......XX.........X
+.XXX...XXX.....X...
+.....XX....X...X...
+X.....X.X....X..X..
+....X...X.....X....
+.X...X..X...X.XX...
+.X.X...XX.X...X....
+...XX..X..X.XXX.X..
+....X.XX....X...X..
+.XX.X....XX...XXX..
+.X..X..........X...
+...XX...X..X.X...X.
+....X....X...XX..X.
+....X..X...........</walls>
+			</board>

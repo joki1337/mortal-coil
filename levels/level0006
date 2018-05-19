@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<board>
+				<level>6</level>
+				<width>5</width>
+				<height>5</height>
+				<walls>
+.....
+.....
+..X..
+.....
+..XXX
+</walls>
+			</board>

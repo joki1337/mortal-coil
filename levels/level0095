@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<board>
+				<level>95</level>
+				<width>36</width>
+				<height>34</height>
+				<walls>......XX..XXXXXXXXXX.......X..XXX...
+.XXXX.....XXXXXXXXXX....XX.X..XXX.X.
+..X...X...XXXXXXXXXXX...XX....X.....
+X...X...X.XX..X............XX......X
+XX........X...X..........X....XX...X
+.....X......X....X.....X....X....X..
+.XX...X..X.....X...X...X..X.X..X....
+....X.X....X.X.........XX.X..XX...XX
+XX..X...X....X.XX...XX..X....XX.X..X
+....XXX...X....XXXX.....XXX........X
+..X.....XXXXX..XXXXXXXX........X....
+X.........XX..XXXXXXX......X...XXXX.
+XXX....XX.XX..X.......XXXXXX.XXXXX..
+....XX..X..X....X....XX......X.....X
+...XXXX..X...X....XX.........X......
+.........XXX....XX.....X.......XXXX.
+..X...XXX.....X..X.......XX.....X...
+X...X.....X...XX.XX..XXXXXX...X...XX
+..XX..XX....X..X..X...X.....X....XXX
+.X....X..XX.XX..X...X...X...XX....XX
+........XX..XXX.XX..X..XX.XXX...X..X
+..XXXX.X...XXXX.....XXX...XX..X..X.X
+XXXXXX.....XX...X...XXX.XX...XXX...X
+.......XX..X..X.....X......X...XXX..
+.X.........X...X....X.XX.....X...X..
+......X......X...XX.X.X...X....X....
+X.X.......X......XX...X.X...X.....X.
+X...........XXX..XXXXX..XXX...X...X.
+X..X.....X....X.XXXXX..X.........X..
+...X...X....X.......X....XXXXX.X...X
+..XXXX.X..X....XX........XX..X..X...
+X....X..X..........XX....XX..XX...X.
+X..X..X.......XXXX......XXX.......X.
+X..XX......XX........XX.....XXXXX...</walls>
+			</board>
