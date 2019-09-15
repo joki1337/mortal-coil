@@ -238,11 +238,12 @@ int main(int argc, char const *argv[])
         strcpy(workcopy, level);
 
         char *startpos = workcopy+(sy*w+sx);
+        *startpos = VISITED;
         success = (
-            go_right  (workcopy, w, startpos)
-            || go_left(workcopy, w, startpos)
-            || go_up  (workcopy, w, startpos)
-            || go_down(workcopy, w, startpos)
+            go_right  (workcopy, w, startpos+1)
+            || go_left(workcopy, w, startpos-1)
+            || go_up  (workcopy, w, startpos-w)
+            || go_down(workcopy, w, startpos+w)
         );
 
         if (success)
